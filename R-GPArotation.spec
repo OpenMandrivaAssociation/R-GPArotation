@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          2012.3.1
-Release:          2
+Release:          3
 Summary:          GPA Factor Rotation
 Group:            Sciences/Mathematics
 License:          GPL (>= 2) | file LICENSE
