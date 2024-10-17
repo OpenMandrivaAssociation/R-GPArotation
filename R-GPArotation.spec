@@ -9,7 +9,7 @@ Release:          3
 Summary:          GPA Factor Rotation
 Group:            Sciences/Mathematics
 License:          GPL (>= 2) | file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/GPArotation_2012.3-1.tar.gz
 BuildRequires:    R-devel
 BuildRequires:    Rmath-devel
